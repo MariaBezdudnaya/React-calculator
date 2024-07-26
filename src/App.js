@@ -39,7 +39,7 @@ function App() {
       <div className="button-container">
         <button className="button" onClick={calculateResult}>Calculate</button>
         <button className="button" onClick={useResult}>Use Result</button>
-        <button className="button" onClick={clearResult}>ClearResult</button>
+        <button className="button" onClick={clearResult}>Clear Result</button>
       </div>
       
       <div>History:</div>
